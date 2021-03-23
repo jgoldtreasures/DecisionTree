@@ -1,0 +1,15 @@
+outlook,temperature,humidity,wind,class
+sunny,C,C,FALSE,no
+sunny,C,D,TRUE,no
+overcast,C,C,FALSE,yes
+rain,B,D,FALSE,yes
+rain,A,C,FALSE,yes
+rain,A,B,TRUE,no
+overcast,A,A,TRUE,yes
+sunny,B,D,FALSE,no
+sunny,A,B,FALSE,yes
+rain,B,C,FALSE,yes
+sunny,B,B,TRUE,yes
+overcast,B,D,TRUE,yes
+overcast,C,B,FALSE,yes
+rain,B,D,TRUE,no
